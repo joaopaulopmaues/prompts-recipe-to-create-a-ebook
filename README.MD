@@ -59,8 +59,7 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material e util
     &nbsp&nbsp&nbsp
     <a href="https://github.com/joaopaulopmaues">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-joaopaulopmaues">LinkedIn</a></p>
+    <a href="www.linkedin.com/in/joaopaulopmaues">LinkedIn</a></p>
 </p>
 <br/><br/>
 <p>
